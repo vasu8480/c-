@@ -20,7 +20,7 @@ int main()
 
             cout<<fact(i)/(fact(j)*fact(i-j))<<" ";
         }
-        cout<<endl;5
+        cout<<endl;
         
     }
 }
